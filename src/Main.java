@@ -27,6 +27,6 @@ public class Main {
         }
 
         scanner.close();
-        System.out.println("Приложение завершило работу.");
+        System.out.println("Приложение завершило работу. До свидания!");
     }
 }
