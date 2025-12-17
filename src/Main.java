@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         CityFileProcessor processor = new CityFileProcessor();
         Scanner scanner = new Scanner(System.in);
-        System.out.println("ПРИЛОЖЕНИЕ ДЛЯ АНАЛИЗА СПРАВОЧНИКОВ ГОРОДОВ");
+        System.out.println("ПРИЛОЖЕНИЕ ДЛЯ ПОДСЧЁТА СТАТИСТИКИ ГОРОДОВ");
         System.out.println("Поддерживаемые форматы: XML, CSV");
         System.out.println("Для выхода введите: exit или quit");
 
